@@ -1,13 +1,13 @@
 {
   "main":{
-    "users":[
-        "0":{
+    "users"[
+        "0"{
           "id":"0",
           "name":"Fabrizio A. Ferreira",
           "email":"fabrizioalmeidati@gmail.com"
         }
     ]
-    "splashScreen":{
+    "splashScreen"{
       "image":"https://my.axerosolutions.com/attachment?file=5u5HfH6lA0UtAPLBYdWYCQ%3D%3D"
     }
   }
