@@ -1,14 +1,14 @@
 {
-  "main":{
-    "users":[
-        "0":{
-          "id":"0",
-          "name":"Fabrizio A. Ferreira",
-          "email":"fabrizioalmeidati@gmail.com"
+    "main":{
+        "users":[
+            {
+                "id":"0",
+                "name":"Fabrizio A. Ferreira",
+                "email":"fabrizioalmeidati@gmail.com"
+            }
+        ],
+        "splashScreen":{
+          "image":"https://my.axerosolutions.com/attachment?file=5u5HfH6lA0UtAPLBYdWYCQ%3D%3D"
         }
-    ]
-    "splashScreen":{
-      "image":"https://my.axerosolutions.com/attachment?file=5u5HfH6lA0UtAPLBYdWYCQ%3D%3D"
     }
   }
-}
