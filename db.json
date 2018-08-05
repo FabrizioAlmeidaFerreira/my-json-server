@@ -101,6 +101,36 @@
                 }
             ]
         },
+        "tips":[
+            {
+                "title":"Verifique a necessidade real do deslocamento",
+                "text":"Antes de tudo é preciso entender a real necessidade da viagem de negócios. A visita ao cliente é realmente necessária? Essa reunião de negócios não pode ser feita de outro modo, como por Skype ou videoconferência?"
+            },
+            {
+                "title":"Defina um limite de gastos de viagem",
+                "text":"Quanto devem ser os gastos de viagem de cada colaborador? Qual o limite de despesas que a empresa autoriza para seus trabalhadores viajantes?"
+            },
+            {
+                "title":"Pesquise antes de fechar a reserva",
+                "text":"Nessa dica entram dois pontos importantes: o planejamento antecipado da viagem e a cotação com diferentes fornecedores."
+            },
+            {
+                "title":"Crie um cronograma de deslocamento",
+                "text":"Quantas viagens sua empresa faz por mês? Quais são os deslocamentos planejados para os próximos dias? Você tem essas respostas?"
+            },
+            {
+                "title":"Controle os reembolsos de forma adequada",
+                "text":"A gestão de reembolsos é um dos maiores gargalos financeiros nas empresas que trabalham com viagens corporativas."
+            },
+            {
+                "title":"Reveja sua política de viagens com frequência",
+                "text":"A gestão de reembolsos é um dos maiores gargalos financeiros nas empresas que trabalham com viagens corporativas. Quando não são controlados da forma adequada, representam uma fatia considerável do faturamento do negócio que é desperdiçada ou mal aplicada."
+            },
+            {
+                "title":"Reveja sua política de viagens com frequência",
+                "text":"As coisas mudam e com as viagens corporativas não é diferente. Por isso, é importante ficar de olho em sua política e revê-la sempre que possível. Com isso você mantém o documento atualizado e dentro dos objetivos da empresa."
+            }
+        ],
         "splashScreen":{
           "image":"https://my.axerosolutions.com/attachment?file=5u5HfH6lA0UtAPLBYdWYCQ%3D%3D"
         }
