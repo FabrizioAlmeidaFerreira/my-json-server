@@ -101,6 +101,73 @@
                 }
             ]
         },
+        "activitys":[
+            {
+                "id":212,
+                "name":"Exemplo Atividade1",
+                "description":"Uma atividade de exemplo para se mostrar no aplicativo debug",
+                "accommodation_id":2323232,
+                "type":"activity",
+                "start_at":"",
+                "end_at":"",
+                "videoUrl":"",
+                "picture_desktop":"",
+                "picture_mobile":"",
+                "picture_headline":""
+            },
+            {
+                "id":213,
+                "name":"Exemplo Atividade2",
+                "description":"Uma atividade de exemplo para se mostrar no aplicativo debug",
+                "accommodation_id":2323232,
+                "type":"activity",
+                "start_at":"",
+                "end_at":"",
+                "videoUrl":"",
+                "picture_desktop":"",
+                "picture_mobile":"",
+                "picture_headline":""
+            },
+            {
+                "id":214,
+                "name":"Exemplo Atividade3",
+                "description":"Uma atividade de exemplo para se mostrar no aplicativo debug",
+                "accommodation_id":2323232,
+                "type":"activity",
+                "start_at":"",
+                "end_at":"",
+                "videoUrl":"",
+                "picture_desktop":"",
+                "picture_mobile":"",
+                "picture_headline":""
+            },
+            {
+                "id":215,
+                "name":"Exemplo Atividade4",
+                "description":"Uma atividade de exemplo para se mostrar no aplicativo debug",
+                "accommodation_id":2323232,
+                "type":"activity",
+                "start_at":"",
+                "end_at":"",
+                "videoUrl":"",
+                "picture_desktop":"",
+                "picture_mobile":"",
+                "picture_headline":""
+            },
+            {
+                "id":216,
+                "name":"Exemplo Atividade5",
+                "description":"Uma atividade de exemplo para se mostrar no aplicativo debug",
+                "accommodation_id":2323232,
+                "type":"activity",
+                "start_at":"",
+                "end_at":"",
+                "videoUrl":"",
+                "picture_desktop":"",
+                "picture_mobile":"",
+                "picture_headline":""
+            }
+        ],
         "tips":[
             {
                 "title":"Verifique a necessidade real do deslocamento",
