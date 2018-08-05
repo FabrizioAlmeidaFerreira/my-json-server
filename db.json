@@ -7,6 +7,20 @@
                 "email":"fabrizioalmeidati@gmail.com"
             }
         ],
+        "acomodation":{
+            "name":"Sofisticação e comodidade\na poucos passos da\nPraia da Barra.",
+            "description":"O Windsor Barra Hotel tem localização prívilegiade na Barra da Tijuca. Além da mais extensa..",
+            "phone":"11-99999-9999",
+            "address":"Street 3",
+            "zipcode":111111,
+            "city":"São Paulo",
+            "state":"São Paulo",
+            "event_id":2324224,
+            "information":"lorem ipsun bl bla bla blbalbl balb lbl blbalbalbalbaal",
+            "area":"",
+            "country":"Brasil",
+            "logo":""
+        },
         "splashScreen":{
           "image":"https://my.axerosolutions.com/attachment?file=5u5HfH6lA0UtAPLBYdWYCQ%3D%3D"
         }
